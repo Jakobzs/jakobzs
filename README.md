@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm an MSc Software Developer based in Denmark.
+
+I'm passionate about native development, particularly using languages like C, C++, and Rust. I also have a strong interest in reverse engineering.
+
 <!--
 **Jakobzs/jakobzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
